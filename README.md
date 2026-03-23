@@ -32,7 +32,7 @@ images/     → Dashboard screenshots
 
 ### 🔹 1. Sales Overview
 
-![Sales Overview](images/overview.png)
+![Sales Overview](Superstore-Sales-Analysis/images/overview.png)
 
 **Insights:**
 
@@ -45,7 +45,7 @@ images/     → Dashboard screenshots
 
 ### 🔹 2. Customer Insights
 
-![Customer Insights](images/customer.png)
+![Customer Insights](Superstore-Sales-Analysis/images/customer.png)
 
 **Insights:**
 
@@ -58,7 +58,7 @@ images/     → Dashboard screenshots
 
 ### 🔹 3. Product Analysis
 
-![Product Analysis](images/product.png)
+![Product Analysis](Superstore-Sales-Analysis/images/product.png)
 
 **Insights:**
 
